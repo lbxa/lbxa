@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">Hi there 👋</p>
+<p align="center">
+  <img width="460" height="300" src="https://cdn.designbyhumans.com/user_store_banner/4078058.jpg" alt="Artwork"/>
+</p>
 
 <!--
 **lucasbrsa/lucasbrsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
