@@ -1,8 +1,7 @@
-<p align="center">Never stop coding 🔭</p>
+<h4 align="center" style="font-family:georgia,garamond,serif;font-size:16px;font-style:italic;">Never stop coding 🔭</h4>
 <p align="center">
- <img width="400" src="https://i.ibb.co/m91rVX0/AV-gaming-logo.png" alt="AV-gaming-logo" border="0">
+ <img width="300" src="https://i.ibb.co/m91rVX0/AV-gaming-logo.png" alt="AV-gaming-logo" border="0">
 </p>
-
 
 <!--
 **lucasbrsa/lucasbrsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
