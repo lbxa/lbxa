@@ -1,4 +1,4 @@
-<h4 align="center" style="font-family:georgia,garamond,serif;font-size:16px;font-style:italic;">Never stop coding 🔭</h4>
+<h3 align="center">Never stop coding 🔭</h3>
 <p align="center">
  <img width="300" src="https://i.ibb.co/m91rVX0/AV-gaming-logo.png" alt="AV-gaming-logo" border="0">
 </p>
