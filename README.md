@@ -1,7 +1,8 @@
 <p align="center">Hi there 👋</p>
 <p align="center">
-  <img width="460" height="300" src="https://cdn.designbyhumans.com/user_store_banner/4078058.jpg" alt="Artwork"/>
+ <img src="https://i.ibb.co/m91rVX0/AV-gaming-logo.png" alt="AV-gaming-logo" border="0">
 </p>
+
 
 <!--
 **lucasbrsa/lucasbrsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
