@@ -1,6 +1,6 @@
 <p align="center">Never stop coding 🔭</p>
 <p align="center">
- <img width="500" src="https://i.ibb.co/m91rVX0/AV-gaming-logo.png" alt="AV-gaming-logo" border="0">
+ <img width="400" src="https://i.ibb.co/m91rVX0/AV-gaming-logo.png" alt="AV-gaming-logo" border="0">
 </p>
 
 
