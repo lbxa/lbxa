@@ -26,5 +26,4 @@ No amount of money ever bought anyone another second of time. Yes, planning for 
 > 
 
 Having a lot of experience with a subject can make you an expert but it’s imagination that’ll turn you into a trailblazer.
-<hr>
-<h3 align="center">Never stop coding 🔭</h3>
+
