@@ -1,4 +1,4 @@
-## **Hi there** 👋🏼 **!** 
+## **Hi there** 👋🏼
 
 I'm Lucas. Currently a third-year student at **UNSW Sydney**. When I'm not coding I'm either slinging drinks 🍹 or surfing the Maroubra rights 🏄🏻. 
 
