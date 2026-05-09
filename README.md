@@ -1,6 +1,4 @@
-## **Hi there** 👋🏼
-
-Hey I'm Lucas.
+## Hey I'm Lucas 👋🏼
 
 I'm an engineer, researcher and product designer.
 
