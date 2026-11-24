@@ -1,4 +1,4 @@
-<img src="https://lbxa.net/_astro/coastal-banner.BQ1K1fNE_2uQ3Uu.webp" alt=""/>
+<img src="https://lbxa.net/_astro/apollo.DRC_KKOT_Zh7QHS.webp" alt=""/>
 
 Hey I'm Lucas 👋🏼
 
